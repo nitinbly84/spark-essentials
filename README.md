@@ -1,5 +1,7 @@
 # The official repository for the Rock the JVM Spark Essentials with Scala course
 
+YouTube : https://www.youtube.com/watch?v=IiZZAu2Qtp0&list=PLXy8DQl3058OoJqGLFdqoBkBKm2T0kS9B
+
 This repository contains the code we wrote during  [Rock the JVM's Spark Essentials with Scala](https://rockthejvm.com/course/spark-essentials) (Udemy version [here](https://udemy.com/spark-essentials)) Unless explicitly mentioned, the code in this repository is exactly what was caught on camera.
 
 ## How to install
